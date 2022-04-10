@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ohyousung
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+Raspberry Pi , learning opencr
+
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- gksmf1240809@naver.com
+
+<!---
+ohyousung/ohyousung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
